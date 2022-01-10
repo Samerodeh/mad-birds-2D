@@ -2,7 +2,7 @@
 
 ***2D Game***
 
-## Build with:
+## Built with:
 
 1. Unity Game Engine.
 2. C# Programming Language.
